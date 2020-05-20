@@ -1,0 +1,6 @@
+language: swift  
+osx_image: xcode11.3 
+xcode_project: FirstCIProject.xcodeproj 
+xcode_scheme: FirstCIProject 
+xcode_destination: platform=iOS Simulator,OS=13.2,name=iPhone 11 Pro Max
+
